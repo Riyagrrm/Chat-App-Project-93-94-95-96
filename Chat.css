@@ -1,0 +1,26 @@
+#header
+{
+    color: #2F8F9D;
+    font-weight: bold;
+}
+body
+{
+    background-color: #82DBD8;
+}
+h4
+{
+    color: #3BACB6;
+}
+#home
+{
+    background-image: url("https://o.remove.bg/downloads/89a1902b-777b-45f2-ac08-5e4b92a7699b/lovepik-dotted-speech-bubble-png-image_401454347_wh1200-removebg-preview.png");
+    background-repeat: no-repeat;
+    background-position: center;
+    margin-top: 100px;
+    width: 500px;
+    height: 500px;
+}
+#logout
+{
+	font-size: 20px; float: right;
+}
